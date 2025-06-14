@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pedrodonizete.github.io/Tec-Shop/sitemap.xml
